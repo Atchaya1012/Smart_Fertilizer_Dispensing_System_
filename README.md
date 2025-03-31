@@ -1,4 +1,4 @@
-**Smart Fertilizer Dispensing System**
+# Smart Fertilizer Dispensing System
 
 # Overview
 
